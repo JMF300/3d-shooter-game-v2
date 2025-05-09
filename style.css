@@ -6,3 +6,12 @@ body {
 canvas {
   display: block; /* Make the canvas fill the page */
 }
+
+#ui {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
